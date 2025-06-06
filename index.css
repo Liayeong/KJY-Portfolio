@@ -20,7 +20,7 @@ a {
 /*소개 메이네이지*/
 .introduction {
     width: 100%;
-    height: 920px;
+    height: 800px;
     background-color: rgb(34, 34, 32);
     z-index: 1;
 }
@@ -54,21 +54,15 @@ a {
     border-bottom: 0.5px solid rgb(167, 167, 164);
     padding: 10px 50px;
 }
-/*헤더영역*/
+/*메뉴 창*/
 #wrap {
     width: 100%;
-    height: 100%;
+    height: 800px;
     position: absolute;
     left: 0;
     top: 0;
     z-index: 1;
     background: rgba(0, 0, 0, 0.6);
-}
-/*메뉴 창*/
-#_wrap {
-    background-color: rgba(40, 40, 40, 60);
-    position: absolute;
-    z-index: 2;
 }
 .menu_bg {
     width: 100%;
